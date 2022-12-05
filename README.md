@@ -24,7 +24,7 @@ The first photo is not displayed.
 The customer can login only with his account name, the password field doesn’t exist.
 
 **Steps to reproduce:**
-1.Go to https://www.globalsqa.com/angularJs-protractor/BankingProject/#/customer  ;
+1.Go to https://www.globalsqa.com/angularJs-protractor/BankingProject/#/customer;
 2.Select username “75675464 64564564“;
 3.Click to “Login“ button.
 
