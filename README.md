@@ -8,7 +8,7 @@ Below are some Bug Report samples that I wrote while working on previous project
 A photo via Twitter should be displayed on the “Photo wall” page.
 
 **Steps to reproduce:**
-1.Go to https://juice-shop.herokuapp.com/#/search ;
+1.Go to https://juice-shop.herokuapp.com/#/search ;<br />
 2.Select “Photo wall” from the principal Menu.
 
 **Expected results:**
@@ -48,9 +48,9 @@ Username: 75675464 64564564
 The customer can place the order without having any product in the cart.
 
 **Steps to reproduce:**
-1.Go to https://www.demoblaze.com/index.html;
-2.Navigate to cart - > Place Order;
-3.Fill the Name and Credit card fields;
+1.Go to https://www.demoblaze.com/index.html;<br />
+2.Navigate to cart - > Place Order;<br />
+3.Fill the Name and Credit card fields;<br />
 4.Press the “Purchase“ button.
 
 **Expected results:**
@@ -66,9 +66,9 @@ The customer can place an order without having any product in the cart. No any e
 Word “clouds” from “lang” parameter (RO - language) is not translated.
 
 **Steps to reproduce:**
-1.Go to https://api.openweathermap.org/data/2.5/weather?q=London&appid=548b07b01e5be002c64cf1a3e90e7454&lang=ro ;
-2.Change the current API key with your API Key;
-3.Select “ro: from “lang” parameter;
+1.Go to https://api.openweathermap.org/data/2.5/weather?q=London&appid=548b07b01e5be002c64cf1a3e90e7454&lang=ro ;<br />
+2.Change the current API key with your API Key;<br />
+3.Select “ro: from “lang” parameter;<br />
 4.Press enter and see the results.
 
 **Expected results:**
@@ -84,9 +84,9 @@ Word “clouds” from weather result is still in English and is not translated 
 The customer can place the order without having any product in the cart.
 
 **Steps to reproduce:**
-1.Go to https://www.demoblaze.com/index.html;
-2.Navigate to cart - > Place Order;
-3.Fill the Name and Credit card fields;
+1.Go to https://www.demoblaze.com/index.html;<br />
+2.Navigate to cart - > Place Order;<br />
+3.Fill the Name and Credit card fields;<br />
 4.Press the “Purchase“ button.
 
 **Expected results:**
@@ -102,10 +102,10 @@ The customer can place an order without having any product in the cart. No any e
 Credit card, Month and Year fields from “place order“ allow letters.
 
 **Steps to reproduce:**
-1.Go to https://www.demoblaze.com/index.html ;
-2.Add a product in your cart;
-3.Navigate to cart - > Place Order;
-4.Fill the Credit card, Month and Year fields with letters;
+1.Go to https://www.demoblaze.com/index.html ;<br />
+2.Add a product in your cart;<br />
+3.Navigate to cart - > Place Order;<br />
+4.Fill the Credit card, Month and Year fields with letters;<br />
 5.Press the “Purchase“ button.
 
 **Expected results:**
