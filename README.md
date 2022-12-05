@@ -65,7 +65,7 @@ The customer can place an order without having any product in the cart. No any e
 **Description:**
 Word “clouds” from “lang” parameter (RO - language) is not translated.
 
-**Steps to reproduce:**
+**Steps to reproduce:**<br />
 1.Go to https://api.openweathermap.org/data/2.5/weather?q=London&appid=548b07b01e5be002c64cf1a3e90e7454&lang=ro ;<br />
 2.Change the current API key with your API Key;<br />
 3.Select “ro: from “lang” parameter;<br />
