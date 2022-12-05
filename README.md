@@ -7,7 +7,7 @@ Below are some Bug Report samples that I wrote while working on previous project
 **Description:**
 A photo via Twitter should be displayed on the “Photo wall” page.
 
-**Steps to reproduce:**
+**Steps to reproduce:**<br />
 1.Go to https://juice-shop.herokuapp.com/#/search ;<br />
 2.Select “Photo wall” from the principal Menu.
 
@@ -47,7 +47,7 @@ Username: 75675464 64564564
 **Description:**
 The customer can place the order without having any product in the cart.
 
-**Steps to reproduce:**
+**Steps to reproduce:**<br />
 1.Go to https://www.demoblaze.com/index.html;<br />
 2.Navigate to cart - > Place Order;<br />
 3.Fill the Name and Credit card fields;<br />
@@ -83,7 +83,7 @@ Word “clouds” from weather result is still in English and is not translated 
 **Description:**
 The customer can place the order without having any product in the cart.
 
-**Steps to reproduce:**
+**Steps to reproduce:**<br />
 1.Go to https://www.demoblaze.com/index.html;<br />
 2.Navigate to cart - > Place Order;<br />
 3.Fill the Name and Credit card fields;<br />
@@ -101,7 +101,7 @@ The customer can place an order without having any product in the cart. No any e
 **Description:**
 Credit card, Month and Year fields from “place order“ allow letters.
 
-**Steps to reproduce:**
+**Steps to reproduce:**<br />
 1.Go to https://www.demoblaze.com/index.html ;<br />
 2.Add a product in your cart;<br />
 3.Navigate to cart - > Place Order;<br />
